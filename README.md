@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,15 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Frontend-Mentor-Challenge
+
+Overview
+This project is a Frontend Mentor challenge centered around mastering JavaScript skills. The main objective is to create a dynamic and interactive user interface using JavaScript, incorporating various JavaScript concepts and functionalities.
+
+Features
+Interactive Elements: Implement engaging and responsive elements using JavaScript.
+Data Manipulation: Showcase the ability to handle and manipulate data dynamically.
+User Input Handling: Capture and process user input effectively.
+DOM Manipulation: Demonstrate proficiency in dynamically updating the Document Object Model (DOM).
+>>>>>>> b625c070fa08b932edb56c47dc4e1e3ae4bf5143
