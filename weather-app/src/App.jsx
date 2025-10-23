@@ -1,6 +1,11 @@
-function App(){
+import React from 'react';
+import Weather from './components/weather';
+ 
+const App = () => {
   return(
-    <>Hello</>
+    <div className="app">
+      <Weather/>
+    </div>
   );
 }
-export default App;
+export default App; 
